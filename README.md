@@ -84,8 +84,5 @@ of comparisons every time you recurse on a subarray with length m.
 
 Enter answer here
 
-I, Du Guo, understand that submitting work that isn’t my own may result in permanent failure of this course or deactivation 
-of my Coursera account. Learn more about Coursera’s Honor Code
-Submit Quiz
 
 
